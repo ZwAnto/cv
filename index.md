@@ -13,20 +13,8 @@ Data Scientist at Lincoln France
 
 ## Experiences
 
-Standing on the shoulders of giants
-
-### Specialized in
-
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
-
-## Experience
-
-### Data Scientist *Lincoln, Ile-de-France*  
 `Oct. 2016 - now`
+__Data Scientist__ *Lincoln, Ile-de-France*  
 Consultant sur des problématiques liées à l'analyse et au traitement de la donnée.
 * Utilisation de R, Python, SAS
 * Developpement de dashboard Shiny
@@ -57,7 +45,26 @@ Technologies et logiciels utilisés: R, SAS, QGIS, JavaScript, Leaflet.js, Visua
 
 ## Projets
 
+__Challenge Data Science Lincoln__
 
+__Appretissage par renforcement__
+
+__Web scrapping__
+
+__Application gestion budgetaire__
+
+## Technical skills
+
+R  
+Shiny  
+Python  
+Markdown  
+SAS  
+SQL  
+HTML/CSS  
+JavaScript  
+Docker  
+Git  
 
 ## Education
 
