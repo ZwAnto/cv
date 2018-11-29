@@ -34,6 +34,7 @@ Consultant sur des problématiques liées à l'analyse et au traitement de la do
 
 {::options parse_block_html="true" /}
 <div class='consulting_container'> 
+`2016-`  
 * Carrefour
     * Intervention chez Carrefour dans le cadre de la prestation chez CSA Data Constulting. L'objectif est de fournir à Carrefour un outil qui leur permet d'analyser la performance de leurs campagnes média passées et fournit des pistes de pilotage de leurs investissements média.
 * CSA Data Consulting
