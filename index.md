@@ -25,9 +25,12 @@ Cooling, power series, optics, alchemy, planetary motions, apples.
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__  
-Test
+`2016-`
+__Data Scientist__ *Lincoln, Ile-de-France*  
+Consultant sur des problématiques liées à l'analyse et au traitement de la donnée.
+* Utilisation de R, Python, SAS
+* Developpement de dashboard Shiny
+* Dispense de formations client sur R
 
 `June 1661 - now`
 __Trinity College, Cambridge__
