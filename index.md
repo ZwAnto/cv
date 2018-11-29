@@ -1,9 +1,10 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Antoine HAMON CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+
+# Antoine HAMON
+Data Scientist at Lincoln France
 
 <div id="webaddress">
 <a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
