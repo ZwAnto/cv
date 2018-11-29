@@ -7,10 +7,9 @@ title: Antoine HAMON CV
 Data Scientist at Lincoln France
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+    <a href="https://github.com/ZwAnto"><i class="fab fa-github"></i> GitHub</a>
+    | <a href="https://www.linkedin.com/in/hamonantoine/"><i class="fab fa-linkedin"></i> LinkedIn</a>
 </div>
-
 
 ## Currently
 
@@ -20,11 +19,9 @@ Standing on the shoulders of giants
 
 Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
 
-
 ### Research interests
 
 Cooling, power series, optics, alchemy, planetary motions, apples.
-
 
 ## Education
 
@@ -41,16 +38,12 @@ __Trinity College, Cambridge__
 
 - Fellow
 
-
-
 ## Awards
 
 `2012`
 President, *Royal Society*, London, UK
 
 Associate, *French Academy of Science*, Paris, France
-
-
 
 ## Publications
 
