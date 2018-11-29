@@ -31,7 +31,7 @@ Consultant sur des problématiques liées à l'analyse et au traitement de la do
 * Utilisation de R, Python, SAS
 * Developpement de dashboard Shiny
 * Dispense de formations client sur R
-
+{::options parse_block_html="true" /}
 <div class='consulting_container'> 
 
 `1 an`  
