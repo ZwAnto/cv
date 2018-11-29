@@ -11,7 +11,7 @@ Data Scientist at Lincoln France
     | <a href="https://www.linkedin.com/in/hamonantoine/"><i class="fab fa-linkedin"></i> LinkedIn</a>
 </div>
 
-## Experience
+## Experiences
 
 Standing on the shoulders of giants
 
@@ -25,8 +25,8 @@ Cooling, power series, optics, alchemy, planetary motions, apples.
 
 ## Experience
 
+### Data Scientist *Lincoln, Ile-de-France*  
 `Oct. 2016 - now`
-__Data Scientist__ *Lincoln, Ile-de-France*  
 Consultant sur des problématiques liées à l'analyse et au traitement de la donnée.
 * Utilisation de R, Python, SAS
 * Developpement de dashboard Shiny
@@ -54,6 +54,10 @@ __Stagiaire chargé d'études statistiques et geomarketing__ *SoLocal Group - Pa
 Intégré à l'équipe de datamining au sein d'un service marketing, mon objectif à été de développer un projet de détection de potentiel sur des produits Search qui s'est conclu par la création d'une application R Shiny.
 
 Technologies et logiciels utilisés: R, SAS, QGIS, JavaScript, Leaflet.js, Visual Basic, Excel
+
+## Projets
+
+
 
 ## Education
 
