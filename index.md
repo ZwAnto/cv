@@ -25,7 +25,7 @@ Cooling, power series, optics, alchemy, planetary motions, apples.
 
 ## Education
 
-`2016-`
+`Oct. 2016 - now`
 __Data Scientist__ *Lincoln, Ile-de-France*  
 Consultant sur des problématiques liées à l'analyse et au traitement de la donnée.
 * Utilisation de R, Python, SAS
@@ -49,15 +49,11 @@ Consultant sur des problématiques liées à l'analyse et au traitement de la do
     * Technologies: SAS, R, R Shiny, HTML/CSS, JavaScript
 </div>
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+`Mar. 2016 - Oct. 2016`
+__Stagiaire chargé d'études statistiques et geomarketing__ *SoLocal Group - Pages Jaunes, Ile-de-France*
+Intégré à l'équipe de datamining au sein d'un service marketing, mon objectif à été de développer un projet de détection de potentiel sur des produits Search qui s'est conclu par la création d'une application R Shiny.
 
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
+Technologies et logiciels utilisés: R, SAS, QGIS, JavaScript, Leaflet.js, Visual Basic, Excel
 
 ## Awards
 
