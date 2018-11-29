@@ -15,7 +15,7 @@ Data Scientist at Lincoln France
     | <a href="https://www.linkedin.com/in/hamonantoine/"><i class="fab fa-linkedin"></i> LinkedIn</a>
 </div>
 
-## Currently
+## Experience
 
 Standing on the shoulders of giants
 
