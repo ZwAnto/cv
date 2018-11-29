@@ -32,6 +32,12 @@ Consultant sur des problématiques liées à l'analyse et au traitement de la do
 * Developpement de dashboard Shiny
 * Dispense de formations client sur R
 
+{::options parse_block_html="true" /}
+<div class='consulting_container'> 
+* dred
+* dede   
+</div>
+
 `June 1661 - now`
 __Trinity College, Cambridge__
 
