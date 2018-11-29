@@ -26,7 +26,7 @@ Cooling, power series, optics, alchemy, planetary motions, apples.
 ## Education
 
 `1654-1660`
-__The King's School, Grantham.__
+__The King's School, Grantham.__  
 Test
 
 `June 1661 - now`
