@@ -23,7 +23,7 @@ Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.w
 
 Cooling, power series, optics, alchemy, planetary motions, apples.
 
-## Education
+## Experience
 
 `Oct. 2016 - now`
 __Data Scientist__ *Lincoln, Ile-de-France*  
@@ -50,50 +50,30 @@ Consultant sur des problématiques liées à l'analyse et au traitement de la do
 </div>
 
 `Mar. 2016 - Oct. 2016`
-__Stagiaire chargé d'études statistiques et geomarketing__ *SoLocal Group - Pages Jaunes, Ile-de-France*
+__Stagiaire chargé d'études statistiques et geomarketing__ *SoLocal Group - Pages Jaunes, Ile-de-France*  
 Intégré à l'équipe de datamining au sein d'un service marketing, mon objectif à été de développer un projet de détection de potentiel sur des produits Search qui s'est conclu par la création d'une application R Shiny.
 
 Technologies et logiciels utilisés: R, SAS, QGIS, JavaScript, Leaflet.js, Visual Basic, Excel
 
-## Awards
+## Education
 
-`2012`
-President, *Royal Society*, London, UK
+`2015-2016`
+__Master 2 Statistique - Économétrie__ spécialité prévision risque et marché  
+*Université Rennes I*  
+Économétrie spatiale, datamining, scoring, Big Data.
+* Projet de segmentation client dans le domaine de lʼassurance (classification, clustering, analyse discriminante) réalisé sous SAS
+* Projet « trieur de spam » réalisé à lʼaide dʼoutils issue du Machine Learning (forêt aléatoire, svm, réseaux de neurones) sous R
 
-Associate, *French Academy of Science*, Paris, France
+`2015-2016`
+__Master 1 Statistique - Économétrie__
+*Université Rennes I*  
+Econométrie, analyse des données (analyse en composante principale,analyse des correspondances, classification), théorie des jeux, économie de lʼincertain.
 
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
-
+`2011-2014`
+__Licence Mathématiques - Économie__  
+*Université Rennes I*  
+Econométrie quantitative, statistique mathématique, probabilités,
+macroéconomie, microéconomie
 
 <!-- ### Footer
 
