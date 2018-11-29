@@ -31,12 +31,11 @@ Consultant sur des problématiques liées à l'analyse et au traitement de la do
 * Utilisation de R, Python, SAS
 * Developpement de dashboard Shiny
 * Dispense de formations client sur R
+
 {::options parse_block_html="true" /}
 <div class='consulting_container'> 
-
 * Carrefour
     * Intervention chez Carrefour dans le cadre de la prestation chez CSA Data Constulting. L'objectif est de fournir à Carrefour un outil qui leur permet d'analyser la performance de leurs campagnes média passées et fournit des pistes de pilotage de leurs investissements média.
- 
 * CSA Data Consulting
     * Modélisation du mix-marketing (Investissements media, CRM, promotions...) pour mesurer l’impact de ces différents leviers sur des indicateurs business dans le but de fournir des pistes de pilotage des actions média-marketing des clients de CSA DC.
     * Traitement/Nettoyage des données fournies par les clients
