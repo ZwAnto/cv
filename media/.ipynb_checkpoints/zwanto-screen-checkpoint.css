@@ -199,7 +199,7 @@ strong {
 
 /* CUSTOM RULES */
 ul {
-    padding-left: 1rem;
+    list-style-position: inside;
     list-style: circle;
 }
 
@@ -209,10 +209,12 @@ ul {
     width: 65%;
     position: relative;
     border-left: 2px solid #f3f3f3;
+    margin-bottom: 1.5em;
+    margin-top: 1.5em;
 }
 .sub_container > * {
-    left: 1rem;
-    width: calc(100% - 1rem);
+    left: 1.5rem;
+    width: calc(100% - 1.5rem);
 }
 .sub_container > p > code {
     left: 0;

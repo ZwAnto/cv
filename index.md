@@ -118,5 +118,3 @@ macroéconomie, microéconomie
 <!-- ### Footer
 
 Last updated: May 2013 -->
-
-
