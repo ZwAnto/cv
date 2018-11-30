@@ -215,10 +215,15 @@ p code {
     text-align: right;
     font-size: 70%;
 }
+
+div:not(.sub_container) > p > strong {
+    font-size: larger;
+}
+
 /* SUB CONTAINER CSS */
 .sub_container {
-    left: 33%;
-    width: 65%;
+    left: 34%;
+    width: 64%;
     position: relative;
     border-left: 2px solid #f3f3f3;
     margin-bottom: 1.5em;
