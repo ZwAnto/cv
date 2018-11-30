@@ -28,7 +28,7 @@ Intervention chez Carrefour dans le cadre de la prestation chez CSA Data Constul
 
 `2016 - now`
 __CSA Data Consulting__  
-Modélisation du mix-marketing (Investissements media, CRM, promotions...) pour mesurer l’impact de ces différents leviers sur des indicateurs business dans le but de fournir des pistes de pilotage des actions média-marketing des clients de CSA DC.  
+Modélisation du mix-marketing (Investissements media, CRM, promotions...) pour mesurer l’impact de ces différents leviers sur des indicateurs business dans le but de fournir des pistes de pilotage des actions média-marketing des clients de CSA DC.
 * Traitement/Nettoyage des données fournies par les clients
 * Création des bases de données
 * Modélisation économétrique (régression linéaire, régression PLS, régression pénalisée)
