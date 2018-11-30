@@ -13,7 +13,7 @@ Data Scientist at Lincoln France
 
 ## Experiences
 
-`Oct. 2016 - now`
+`2016 - now`
 __Data Scientist__ *Lincoln, Ile-de-France*  
 Consultant sur des problématiques liées à l'analyse et au traitement de la donnée.
 * Utilisation de R, Python, SAS
@@ -22,10 +22,12 @@ Consultant sur des problématiques liées à l'analyse et au traitement de la do
 
 {::options parse_block_html="true" /}
 <div class='consulting_container'> 
-`2016-`  
-* Carrefour
+`2017 - now`  
+__Carrefour__  
     * Intervention chez Carrefour dans le cadre de la prestation chez CSA Data Constulting. L'objectif est de fournir à Carrefour un outil qui leur permet d'analyser la performance de leurs campagnes média passées et fournit des pistes de pilotage de leurs investissements média.
-* CSA Data Consulting
+
+`2016 - now`  
+__CSA Data Consulting__  
     * Modélisation du mix-marketing (Investissements media, CRM, promotions...) pour mesurer l’impact de ces différents leviers sur des indicateurs business dans le but de fournir des pistes de pilotage des actions média-marketing des clients de CSA DC.
     * Traitement/Nettoyage des données fournies par les clients
     * Création des bases de données
@@ -37,7 +39,7 @@ Consultant sur des problématiques liées à l'analyse et au traitement de la do
     * Technologies: SAS, R, R Shiny, HTML/CSS, JavaScript
 </div>
 
-`Mar. 2016 - Oct. 2016`
+`2016`
 __Stagiaire chargé d'études statistiques et geomarketing__ *SoLocal Group - Pages Jaunes, Ile-de-France*  
 Intégré à l'équipe de datamining au sein d'un service marketing, mon objectif à été de développer un projet de détection de potentiel sur des produits Search qui s'est conclu par la création d'une application R Shiny.
 
@@ -69,17 +71,17 @@ GitHub repo <a href='https://github.com/Zwanto/pynet/'>lien</a>
 __Kaggle - House Prices: Advanced Regression Techniques__  
 </div>
 
-__Appretissage par renforcement__
+__Appretissage par renforcement__  
 Utitisation de Deep Q neural network pour entrainer un agent sur des environements Atari 2600 (Space Invaders).  
 Technologies: Python, Keras, OpenAI Gym, Autoencoder  
 
 
-__Web scrapping__
+__Web scrapping__  
 Scrapping de sites bancaires avec Python pour récupérer les opérations sur DAV.  
 L'idée est de pouvoi alimenter une application web de gestion budgetaire.
 
 
-__Application gestion budgetaire__
+__Application gestion budgetaire__  
 Developpement d'une application web de suivi des dépenses.
 Technologies: HTML/CSS, Javascript, PHP, SQL
 
