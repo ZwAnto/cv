@@ -46,6 +46,20 @@ Technologies et logiciels utilisés: R, SAS, QGIS, JavaScript, Leaflet.js, Visua
 ## Projets
 
 __Challenge Data Science Lincoln__
+Challenges internes organisés par Lincoln sur différentes thématiques autout de la data. Ces challenges sont l'occasion d'aprendre à utiliser de nouveaux outils/langage (Python, Keras, Django, Docker, Elastic Search...) 
+
+{::options parse_block_html="true" /}
+<div class='consulting_container'>
+* Twitter et JO 2024
+    Traitement et nettoyage des tweets avec des techniques issues du NLP. Mon approche à été d'identifier des semaines voisines relativement similaires en terme de thématique afin d'identifier les différents évènements survenus durant la période de candidature de Paris aux JO 2024. Creation d'une application web connecter à un cluster Elastic pour la restitution.
+    Technologies: Python, HTML/CSS, ElasticSearch, Bag-of-Words, TF-IDF, T-SNE, DBSCAN
+* Dataviz - La propreté à Paris
+    Creation d'un dashboard sur la thématique de la propreté à Paris.  
+    Lien vers le dashbaord <a href='https://zwanto.org/lincoln/'>lien</a>
+    Technologies: HTML/CSS, Highcharts.hs, Leaflet.js
+* Reconnaissance d'image CIFAR-10
+* Kaggle - House Prices: Advanced Regression Techniques
+</div>
 
 __Appretissage par renforcement__
 
