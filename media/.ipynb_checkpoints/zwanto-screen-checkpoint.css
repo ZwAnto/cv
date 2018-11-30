@@ -197,13 +197,31 @@ strong {
 
 
 
+/* CUSTOM RULES */
+ul {
+    padding-left: 1rem;
+    list-style: circle;
+}
+
+/* SUB CONTAINER CSS */
 .sub_container {
     left: 33%;
     width: 65%;
     position: relative;
-    border-left: 4px solid #f3f3f3;
+    border-left: 2px solid #f3f3f3;
 }
 .sub_container > * {
     left: 1rem;
     width: calc(100% - 1rem);
 }
+.sub_container > p > code {
+    left: 0;
+    position: relative;
+}
+
+/* TECNICAL SKILLS */
+h2#technical-skills + p {
+    column-count: 3;
+}
+
+    
