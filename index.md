@@ -34,14 +34,14 @@ Modélisation du mix-marketing (Investissements media, CRM, promotions...) pour 
     - Les statistiques descriptives
     - Les résultats de modélisation
     - Les recommandations  
-<i class="fas fa-code"></i> Technologies: SAS, R, R Shiny, HTML/CSS, JavaScript
+Technologies: SAS, R, R Shiny, HTML/CSS, JavaScript
 </div>
 
 `2016`
 __Stagiaire chargé d'études statistiques et geomarketing__ *SoLocal Group - Pages Jaunes, Ile-de-France*  
 Intégré à l'équipe de datamining au sein d'un service marketing, mon objectif à été de développer un projet de détection de potentiel sur des produits Search qui s'est conclu par la création d'une application R Shiny.
 
-<i class="fas fa-code"></i> Technologies: R, SAS, QGIS, JavaScript, Leaflet.js, Visual Basic, Excel
+Technologies: R, SAS, QGIS, JavaScript, Leaflet.js, Visual Basic, Excel
 
 ## Projets
 
@@ -81,7 +81,7 @@ Developpement d'une application web de suivi des dépenses.
 Technologies: HTML/CSS, Javascript, PHP, SQL
 
 
-## Compétences techniques(#technical-skills)
+## Compétences techniques {#technical-skills}
 
 R  
 Shiny  
