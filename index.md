@@ -22,12 +22,10 @@ Consultant sur des problématiques liées à l'analyse et au traitement de la do
 
 {::options parse_block_html="true" /}
 <div class='sub_container'> 
-`2017 - now`
-__Carrefour__  
+__Carrefour__ `2017 - now`  
 Intervention chez Carrefour dans le cadre de la prestation chez CSA Data Constulting. L'objectif est de fournir à Carrefour un outil qui leur permet d'analyser la performance de leurs campagnes média passées et fournit des pistes de pilotage de leurs investissements média.
 
-`2016 - now`
-__CSA Data Consulting__  
+__CSA Data Consulting__ `2016 - now`  
 Modélisation du mix-marketing (Investissements media, CRM, promotions...) pour mesurer l’impact de ces différents leviers sur des indicateurs business dans le but de fournir des pistes de pilotage des actions média-marketing des clients de CSA DC.
 * Traitement/Nettoyage des données fournies par les clients
 * Création des bases de données
