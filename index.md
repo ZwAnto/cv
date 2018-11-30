@@ -58,6 +58,8 @@ Challenges internes organisés par Lincoln sur différentes thématiques autout 
     * Lien vers le dashbaord <a href='https://zwanto.org/lincoln/'>lien</a>
     * Technologies: HTML/CSS, Highcharts.hs, Leaflet.js
 * Reconnaissance d'image CIFAR-10
+    * Deep Learning sur le jeux de données CIFAR-10. Réimplémentation des différentes couches d'un réseaux à convolutions sous Python avec numpy.
+    * GitHub repo <a href='https://github.com/Zwanto/pynet/'>lien</a>
 * Kaggle - House Prices: Advanced Regression Techniques
 </div>
 
