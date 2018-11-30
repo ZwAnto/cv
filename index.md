@@ -51,18 +51,18 @@ Challenges internes organisés par Lincoln sur différentes thématiques autout 
 {::options parse_block_html="true" /}
 <div class='consulting_container'>
 __Twitter et JO 2024__  
-* Traitement et nettoyage des tweets avec des techniques issues du NLP. Mon approche à été d'identifier des semaines voisines relativement similaires en terme de thématique afin d'identifier les différents évènements survenus durant la période de candidature de Paris aux JO 2024. Creation d'une application web connecter à un cluster Elastic pour la restitution.
-* Technologies: Python, HTML/CSS, ElasticSearch, Bag-of-Words, TF-IDF, T-SNE, DBSCAN  
+Traitement et nettoyage des tweets avec des techniques issues du NLP. Mon approche à été d'identifier des semaines voisines relativement similaires en terme de thématique afin d'identifier les différents évènements survenus durant la période de candidature de Paris aux JO 2024. Creation d'une application web connecter à un cluster Elastic pour la restitution.  
+Technologies: Python, HTML/CSS, ElasticSearch, Bag-of-Words, TF-IDF, T-SNE, DBSCAN  
 
 
 __Dataviz - La propreté à Paris__  
-* Creation d'un dashboard sur la thématique de la propreté à Paris.  
-* Lien vers le dashbaord <a href='https://zwanto.org/lincoln/'>lien</a>
-* Technologies: HTML/CSS, Highcharts.hs, Leaflet.js  
+Creation d'un dashboard sur la thématique de la propreté à Paris.  
+Lien vers le dashbaord <a href='https://zwanto.org/lincoln/'>lien</a>  
+Technologies: HTML/CSS, Highcharts.hs, Leaflet.js  
 
 
 __Reconnaissance d'image CIFAR-10__  
-Deep Learning sur le jeux de données CIFAR-10. Réimplémentation des différentes couches d'un réseaux à convolutions sous Python avec numpy.
+Deep Learning sur le jeux de données CIFAR-10. Réimplémentation des différentes couches d'un réseaux à convolutions sous Python avec numpy.  
 GitHub repo <a href='https://github.com/Zwanto/pynet/'>lien</a>  
 
 
@@ -70,10 +70,19 @@ __Kaggle - House Prices: Advanced Regression Techniques__
 </div>
 
 __Appretissage par renforcement__
+Utitisation de Deep Q neural network pour entrainer un agent sur des environements Atari 2600 (Space Invaders).  
+Technologies: Python, Keras, OpenAI Gym, Autoencoder  
+
 
 __Web scrapping__
+Scrapping de sites bancaires avec Python pour récupérer les opérations sur DAV.  
+L'idée est de pouvoi alimenter une application web de gestion budgetaire.
+
 
 __Application gestion budgetaire__
+Developpement d'une application web de suivi des dépenses.
+Technologies: HTML/CSS, Javascript, PHP, SQL
+
 
 ## Technical skills
 
