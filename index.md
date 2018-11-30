@@ -52,12 +52,12 @@ Challenges internes organisés par Lincoln sur différentes thématiques autout 
 <div class='sub_container'>
 __Twitter et JO 2024__  
 Traitement et nettoyage des tweets avec des techniques issues du NLP. Mon approche à été d'identifier des semaines voisines relativement similaires en terme de thématique afin d'identifier les différents évènements survenus durant la période de candidature de Paris aux JO 2024. Creation d'une application web connecter à un cluster Elastic pour la restitution.  
-<i class="fas fa-code"></i> Technologies: Python, HTML/CSS, ElasticSearch, Bag-of-Words, TF-IDF, T-SNE, DBSCAN  
+Technologies: Python, HTML/CSS, ElasticSearch, Bag-of-Words, TF-IDF, T-SNE, DBSCAN  
 
 __Dataviz - La propreté à Paris__  
 Creation d'un dashboard sur la thématique de la propreté à Paris.  
 Lien vers le dashbaord <a href='https://zwanto.org/lincoln/'>lien</a>  
-<i class="fas fa-code"></i> Technologies: HTML/CSS, Highcharts.hs, Leaflet.js  
+Technologies: HTML/CSS, Highcharts.hs, Leaflet.js  
 
 __Reconnaissance d'image CIFAR-10__  
 Deep Learning sur le jeux de données CIFAR-10. Réimplémentation des différentes couches d'un réseaux à convolutions sous Python avec numpy.  
@@ -68,7 +68,7 @@ __Kaggle - House Prices: Advanced Regression Techniques__
 
 __Appretissage par renforcement__  
 Utitisation de Deep Q neural network pour entrainer un agent sur des environements Atari 2600 (Space Invaders).  
-<i class="fas fa-code"></i> Technologies: Python, Keras, OpenAI Gym, Autoencoder  
+Technologies: Python, Keras, OpenAI Gym, Autoencoder  
 
 
 __Web scrapping__  
@@ -78,7 +78,7 @@ L'idée est de pouvoi alimenter une application web de gestion budgetaire.
 
 __Application gestion budgetaire__  
 Developpement d'une application web de suivi des dépenses.  
-<i class="fas fa-code"></i> Technologies: HTML/CSS, Javascript, PHP, SQL
+Technologies: HTML/CSS, Javascript, PHP, SQL
 
 
 ## Compétences techniques
