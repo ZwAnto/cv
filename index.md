@@ -33,7 +33,8 @@ Modélisation du mix-marketing (Investissements media, CRM, promotions...) pour 
 * Création d'outil de visualisation sous R Shiny pour:
     - Les statistiques descriptives
     - Les résultats de modélisation
-    - Les recommandations  
+    - Les recommandations
+
 Technologies: SAS, R, R Shiny, HTML/CSS, JavaScript
 </div>
 
