@@ -24,19 +24,19 @@ Consultant sur des problématiques liées à l'analyse et au traitement de la do
 <div class='consulting_container'> 
 `2017 - now`  
 __Carrefour__  
-    * Intervention chez Carrefour dans le cadre de la prestation chez CSA Data Constulting. L'objectif est de fournir à Carrefour un outil qui leur permet d'analyser la performance de leurs campagnes média passées et fournit des pistes de pilotage de leurs investissements média.
+Intervention chez Carrefour dans le cadre de la prestation chez CSA Data Constulting. L'objectif est de fournir à Carrefour un outil qui leur permet d'analyser la performance de leurs campagnes média passées et fournit des pistes de pilotage de leurs investissements média.
 
 `2016 - now`  
 __CSA Data Consulting__  
-    * Modélisation du mix-marketing (Investissements media, CRM, promotions...) pour mesurer l’impact de ces différents leviers sur des indicateurs business dans le but de fournir des pistes de pilotage des actions média-marketing des clients de CSA DC.
-    * Traitement/Nettoyage des données fournies par les clients
-    * Création des bases de données
-    * Modélisation économétrique (régression linéaire, régression PLS, régression pénalisée)
-    * Création d'outil de visualisation sous R Shiny pour:
-        - Les statistiques descriptives
-        - Les résultats de modélisation
-        - Les recommandations
-    * Technologies: SAS, R, R Shiny, HTML/CSS, JavaScript
+Modélisation du mix-marketing (Investissements media, CRM, promotions...) pour mesurer l’impact de ces différents leviers sur des indicateurs business dans le but de fournir des pistes de pilotage des actions média-marketing des clients de CSA DC.  
+* Traitement/Nettoyage des données fournies par les clients
+* Création des bases de données
+* Modélisation économétrique (régression linéaire, régression PLS, régression pénalisée)
+* Création d'outil de visualisation sous R Shiny pour:
+    - Les statistiques descriptives
+    - Les résultats de modélisation
+    - Les recommandations
+* Technologies: SAS, R, R Shiny, HTML/CSS, JavaScript
 </div>
 
 `2016`
@@ -56,17 +56,14 @@ __Twitter et JO 2024__
 Traitement et nettoyage des tweets avec des techniques issues du NLP. Mon approche à été d'identifier des semaines voisines relativement similaires en terme de thématique afin d'identifier les différents évènements survenus durant la période de candidature de Paris aux JO 2024. Creation d'une application web connecter à un cluster Elastic pour la restitution.  
 Technologies: Python, HTML/CSS, ElasticSearch, Bag-of-Words, TF-IDF, T-SNE, DBSCAN  
 
-
 __Dataviz - La propreté à Paris__  
 Creation d'un dashboard sur la thématique de la propreté à Paris.  
 Lien vers le dashbaord <a href='https://zwanto.org/lincoln/'>lien</a>  
 Technologies: HTML/CSS, Highcharts.hs, Leaflet.js  
 
-
 __Reconnaissance d'image CIFAR-10__  
 Deep Learning sur le jeux de données CIFAR-10. Réimplémentation des différentes couches d'un réseaux à convolutions sous Python avec numpy.  
 GitHub repo <a href='https://github.com/Zwanto/pynet/'>lien</a>  
-
 
 __Kaggle - House Prices: Advanced Regression Techniques__  
 </div>
