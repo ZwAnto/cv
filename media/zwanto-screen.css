@@ -197,6 +197,13 @@ strong {
 
 
 
-
-
-.sub_container
+.sub_container {
+    left: 33%;
+    width: 65%;
+    position: relative;
+    border-left: 4px solid #f3f3f3;
+}
+.sub_container > * {
+    left: 1rem;
+    width: calc(100% - 1rem);
+}
