@@ -81,7 +81,7 @@ Developpement d'une application web de suivi des dépenses.
 Technologies: HTML/CSS, Javascript, PHP, SQL
 
 
-## Compétences techniques
+## Compétences techniques(#technical-skills)
 
 R  
 Shiny  
