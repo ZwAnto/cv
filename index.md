@@ -118,7 +118,7 @@ macroéconomie, microéconomie
 
 ## Contact  {#contact}
 
-* <a href="https://www.linkedin.com/in/hamonantoine/"><i class="far fa-envelope"></i> Mail</a>
+* <a href="mailto:antoine.hamon22@gmail.com"><i class="far fa-envelope"></i> Mail</a>
 * <a href="https://www.linkedin.com/in/hamonantoine/"><i class="fab fa-linkedin"></i> LinkedIn</a>
 * <a href="https://github.com/ZwAnto"><i class="fab fa-github"></i> GitHub</a>
 
