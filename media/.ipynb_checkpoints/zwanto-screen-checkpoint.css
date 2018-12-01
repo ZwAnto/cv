@@ -203,10 +203,11 @@ strong {
 
 /* CUSTOM RULES */
 ul {
-    list-style-position: inside;
     margin-left: 1.5rem;
-    
     list-style: circle;
+}
+li {
+    list-style-position: inside;
 }
 
 p code {
