@@ -215,7 +215,7 @@ p code {
     width: calc(14% - 1rem);
     font-family: inherit;
     text-align: right;
-    font-size: 70%;
+    font-size: 90%;
 }
 
 div:not(.sub_container) > p > strong {
