@@ -37,7 +37,7 @@ Modélisation du mix-marketing (Investissements media, CRM, promotions...) pour 
     - Les résultats de modélisation
     - Les recommandations
 
-Technologies : SAS, R, R Shiny, HTML/CSS, JavaScript
+Technologies : SAS, R, R Shiny, HTML/CSS, JavaScript  
 Méthodes : regession PLS, series de fourrier
 </div>
 
@@ -61,13 +61,13 @@ Méthodes : Bag-of-Words, TF-IDF, T-SNE, DBSCAN
 
 __Dataviz - La propreté à Paris__  
 Création d'un dashboard sur la thématique de la propreté à Paris.  
-Lien vers le dashbaord <a href='https://zwanto.org/lincoln/'>lien</a>  
+Lien vers le dashbaord <a href='https://zwanto.org/lincoln/'><i class="fas fa-external-link-alt"></i></a>  
 Technologies : HTML/CSS, Highcharts.hs, Leaflet.js  
 
 __Reconnaissance d'image CIFAR-10__  
 Deep Learning sur le jeux de données CIFAR-10. Réimplémentation des différentes couches d'un réseaux à convolutions sous Python avec numpy.  
 Creation d'une webapp avec Django. L'utilisateur dessine un chiffre et l'application renvoi le chiffre qui à été dessiné en se basant sur un réseux de neurones entrainé sur MNIST.  
-GitHub repo <a href='https://github.com/Zwanto/pynet/'>lien</a>  
+GitHub repo <a href='https://github.com/Zwanto/pynet/'><i class="fas fa-external-link-alt"></i></a>  
 Technologies : Python, Django  
 Méthodes : CNN, RNN  
 
