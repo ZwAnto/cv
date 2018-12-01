@@ -258,10 +258,3 @@ a:visited .far, a:visited .fas{
 #content:last-child {
     margin-bottom: 4rem;
 }
-
-h2#contact + ul {
-    list-style: none;
-}
-h2#contact + ul a {
-    text-decoration:none;
-}
