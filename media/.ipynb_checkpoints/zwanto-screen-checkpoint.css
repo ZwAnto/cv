@@ -223,7 +223,7 @@ div:not(.sub_container) > p > strong {
 
 /* SUB CONTAINER CSS */
 .sub_container {
-    left: 34%;
+    left: calc(33% + 0.25rem);
     width: 64%;
     position: relative;
     border-left: 2px solid #f3f3f3;
