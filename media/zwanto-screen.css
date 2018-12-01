@@ -250,3 +250,9 @@ h2#technical-skills + p {
 }
 
     
+.fa, .fab, .fal{
+    color: var(--color-h2-title);
+}
+#content:last-child {
+    margin-bottom: 4rem;
+}
