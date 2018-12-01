@@ -4,7 +4,7 @@ title: Antoine HAMON CV
 ---
 
 # Antoine HAMON
-Data Scientist at Lincoln France
+Data Scientist at Lincoln
 
 <div id="webaddress">
     <a href="https://github.com/ZwAnto"><i class="fab fa-github"></i> GitHub</a>

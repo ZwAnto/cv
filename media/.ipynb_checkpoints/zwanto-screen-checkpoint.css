@@ -250,7 +250,9 @@ h2#technical-skills + p {
 }
 
     
-.fa, .fab, .fal, a:visited .fa, a:visited .fab, a:visited .fal{
+.fa, .fab, .fal, .far, .fas, 
+a:visited .fa, a:visited .fab, a:visited .fal,
+a:visited .far, a:visited .fas{
     color: var(--color-h2-title);
 }
 #content:last-child {
