@@ -250,7 +250,7 @@ h2#technical-skills + p {
 }
 
     
-.fa, .fab, .fal{
+.fa, .fab, .fal, a:visited .fa, a:visited .fab, a:visited .fal{
     color: var(--color-h2-title);
 }
 #content:last-child {
@@ -260,7 +260,6 @@ h2#technical-skills + p {
 h2#contact + ul {
     list-style: none;
 }
-
 h2#contact + ul a {
     text-decoration:none;
 }
