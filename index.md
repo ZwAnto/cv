@@ -97,19 +97,19 @@ Git
 
 ## Education
 
-`2015-2016`
+`2015-16`
 __Master 2 Statistique - Économétrie__ spécialité prévision risque et marché  
 *Université Rennes I*  
 Économétrie spatiale, datamining, scoring, Big Data.
 * Projet de segmentation client dans le domaine de lʼassurance (classification, clustering, analyse discriminante) réalisé sous SAS
 * Projet « trieur de spam » réalisé à lʼaide dʼoutils issue du Machine Learning (forêt aléatoire, svm, réseaux de neurones) sous R
 
-`2015-2016`
+`2014-15`
 __Master 1 Statistique - Économétrie__
 *Université Rennes I*  
 Econométrie, analyse des données (analyse en composante principale,analyse des correspondances, classification), théorie des jeux, économie de lʼincertain.
 
-`2011-2014`
+`2011-14`
 __Licence Mathématiques - Économie__  
 *Université Rennes I*  
 Econométrie quantitative, statistique mathématique, probabilités,
