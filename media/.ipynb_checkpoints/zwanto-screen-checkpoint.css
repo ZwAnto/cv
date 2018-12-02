@@ -255,6 +255,11 @@ a:visited .fa, a:visited .fab, a:visited .fal,
 a:visited .far, a:visited .fas{
     color: var(--color-h2-title);
 }
+
+p .fa,p .fab,p .fal,p .far,p .fas {
+    font-size: 0.8em;
+}
+
 #content:last-child {
     margin-bottom: 4rem;
 }
