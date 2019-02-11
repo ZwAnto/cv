@@ -100,8 +100,8 @@ Technologies : HTML/CSS, Javascript, PHP, SQL
 R  
 Shiny  
 Python  
-Tensorflow
-Keras
+Tensorflow  
+Keras  
 Markdown  
 SAS  
 SQL  
