@@ -100,6 +100,8 @@ Technologies : HTML/CSS, Javascript, PHP, SQL
 R  
 Shiny  
 Python  
+Tensorflow
+Keras
 Markdown  
 SAS  
 SQL  
@@ -127,7 +129,3 @@ __Licence Mathématique - Économie__
 *Université Rennes I*  
 Econométrie quantitative, statistiques mathématiques, probabilités,
 macroéconomie, microéconomie
-
-<!-- ### Footer
-
-Last updated: May 2013 -->
