@@ -23,11 +23,17 @@ Consultant sur des problématiques liées à l'analyse et au traitement de la do
 * Dispense de formations client sur R
 
 {::options parse_block_html="true" /}
-<div class='sub_container'> 
-__Carrefour__ `2017 - now`  
+<div class='sub_container'>
+__Servier__ `2019 - now`
+Projets de text-mining/NLP sur des données issues de scraping (forum, publications médicales).  
+Traitement d'images avec des techniques issues du Deep Learning sur des données publiques (arthrose, retinopathie diabétique).
+    
+Technologies : R, Python, Spacy, Tensorflow
+    
+__Carrefour__ `2017 - 2019`  
 Intervention chez Carrefour dans le cadre de la prestation chez CSA Data Constulting. L'objectif est de fournir à Carrefour un outil qui leur permet d'analyser la performance de leurs campagnes média passées et fournit des pistes de pilotage de leurs investissements média.
 
-__CSA Data Consulting__ `2016 - now`  
+__CSA Data Consulting__ `2016 - 2019`  
 Modélisation du mix-marketing (Investissements media, CRM, promotions...) pour mesurer l’impact de ces différents leviers sur des indicateurs business dans le but de fournir des pistes de pilotage des actions média-marketing pour les clients de CSA DC.
 * Traitement/Nettoyage des données fournies par les clients
 * Création des bases de données
