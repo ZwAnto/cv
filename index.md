@@ -24,7 +24,7 @@ Consultant sur des problématiques liées à l'analyse et au traitement de la do
 
 {::options parse_block_html="true" /}
 <div class='sub_container'>
-__Servier__ `2019 - now`
+__Servier__ `2019 - now`  
 Projets de text-mining/NLP sur des données issues de scraping (forum, publications médicales).  
 Traitement d'images avec des techniques issues du Deep Learning sur des données publiques (arthrose, retinopathie diabétique).
     
