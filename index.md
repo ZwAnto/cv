@@ -7,7 +7,7 @@ title: Antoine HAMON CV
 Data Scientist at Lincoln
 
 <div id="webaddress">
-    <a href="mailto:antoine.hamon22@gmail.com"><i class="far fa-envelope"></i> Mail</a>
+    <a href="mailto:antoine.hamon@protonmail.com"><i class="far fa-envelope"></i> Mail</a>
     | <a href="https://github.com/ZwAnto"><i class="fab fa-github"></i> GitHub</a>
     | <a href="https://www.linkedin.com/in/hamonantoine/"><i class="fab fa-linkedin"></i> LinkedIn</a>
 </div>
@@ -27,10 +27,17 @@ Consultant sur des problématiques liées à l'analyse et au traitement de la do
 {::options parse_block_html="true" /}
 <div class='sub_container'>
 __Servier__ `2019 - now`  
-Projets de text-mining/NLP sur des données issues de scraping (forums, publications médicales).  
-Traitement d'images avec des techniques issues du Deep Learning sur des données publiques (arthrose, retinopathie diabétique).
-    
-Technologies : R, Python, Spacy, Tensorflow
+Part of the Data-Science team in the CENTEX MVD, I am in charge of different type of projects going from scientific publications analysis to drug repurposing/target discovery.  
+
+* The projects of scientific publication analysis are about how to identify relevant document about some specific inputs (for exemple, extract all publications about a specific biomarker and prognosis in a certain disease/condition). To achieve this we set up a pipeline using Spacy and regex base rules that allow us to make shorlists of publications about a given subject. All the publications were collected from NCBI PubMed/NCBI PMC.
+* The drug repuposing project is about setting up a novel platform to do drug repurposing and target discovery. This project could split up in different part
+    - The identification and the gathering of relevant open source databases on wich we build our pipelines ( in addition of internal databases). 
+    - The implementation of all the analytic part that mainly rely on tools and well knwon algorithms from graph theory. 
+    - The creation of an application in order to expose data and analysis results.
+
+I also had the opportunity to work briefly on image recognition using deep learning algorithms in different projects.
+
+Technologies : Python, R, R Shiny, MongoDB, Neo4j, Node.js/Vue.js, Cytoscape, Tensorflow, Spacy
     
 __Carrefour__ `2017 - 2019`  
 
@@ -67,22 +74,23 @@ Internal data science challenge organize by Lincoln on various subjects from dat
 
 {::options parse_block_html="true" /}
 <div class='sub_container'>
-__Twitter et JO 2024__  
-Traitement et nettoyage des tweets avec des techniques issues du NLP. Mon approche à été d'identifier des semaines voisines relativement similaires en terme de thématique afin d'identifier les différents évènements survenus durant la période de candidature de Paris aux JO 2024. Creation d'une application web connectée à un cluster Elastic pour la restitution.  
+__Twitter and the 2024 Olympics games__  
+In this project, we were working on a set of tweets about the olympics games of 2024. I try to identify major events that occure during the period that cover the Paris application by clustering weeks base on the words used in the tweets. I also create a web app that rely on elastic search to visualize my results.
+
 Technologies : Python, HTML/CSS, ElasticSearch  
-Méthodes : Bag-of-Words, TF-IDF, T-SNE, DBSCAN  
+Methods : Bag-of-Words, TF-IDF, T-SNE, DBSCAN  
 
 __Dataviz - La propreté à Paris__  
-Création d'un dashboard sur la thématique de la propreté à Paris.  
+Creation of a dashboard on the topic of street cleanliness in Paris using Open Data.
 Lien vers le dashbaord <a href='https://zwanto.org/lincoln/'><i class="fas fa-external-link-alt"></i></a>  
 Technologies : HTML/CSS, Highcharts.hs, Leaflet.js  
 
-__Reconnaissance d'image CIFAR-10__  
-Deep Learning sur le jeux de données CIFAR-10. Réimplémentation des différentes couches d'un réseaux à convolutions sous Python avec numpy.  
-Creation d'une webapp avec Django. L'utilisateur dessine un chiffre et l'application renvoi le chiffre qui à été dessiné en se basant sur un réseux de neurones entrainé sur MNIST.  
-GitHub repo <a href='https://github.com/Zwanto/pynet/'><i class="fas fa-external-link-alt"></i></a>  
+__Reconnaissance d'image CIFAR-10__ 
+Deep learning project on CIFAR-10 dataset. For this project, I implement a convutionnal neural network framework from scratch in python/numpy.  
+I also created a webapp using Django in order to test my implementation after a training on MNIST. Users can draw a figure in the app and get the app tell the user wich figure he has drawn using my neural network implementation.
+GitHub repo <a href='https://github.com/zwanto/pynet/'><i class="fas fa-external-link-alt"></i></a>  
 Technologies : Python, Django, Docker  
-Méthodes : CNN, RNN  
+Methods : CNN, RNN  
 
 __Kaggle - House Prices: Advanced Regression Techniques__  
 </div>
@@ -92,19 +100,16 @@ __Projets personnels__
 {::options parse_block_html="true" /}
 <div class='sub_container'>
     
-__Apprentissage par renforcement__  
-Utitisation de Deep Q neural network pour entrainer un agent sur des environnements Atari 2600 (Space Invaders).  
+__Reinforcment Learning__  
+Using Deep Q neural network in order to train an agent to play Atari 2600 Games (Space Invaders for now on)
 Technologies : Python, Keras, OpenAI Gym  
-Méthodes : Autoencoder, CNN, DQN  
+Methods : Autoencoder, CNN, DQN  
 
-__Web scrapping__  
-Scrapping de sites bancaires avec Python pour récupérer les opérations sur comptes bancaires.  
-L'idée est de pouvoir alimenter une application web de gestion budgetaire.
+__Budget managment application__
+Creation of a web application in Vue.js to monitor my expenses.
+All the datas are scraped from my bank website and stored in a MySQL databases with a python backend to bond between the database and the Vue.js application.
 
-
-__Application gestion budgétaire__  
-Développement d'une application web de suivi des dépenses.  
-Technologies : HTML/CSS, Javascript, PHP, SQL
+Technologies : Vue.js, MySQL, Selenium
 </div>
 
 
@@ -122,23 +127,26 @@ HTML/CSS
 JavaScript  
 Docker  
 Git  
+Vue.js  
+Selenium  
+Scrapy  
+Neo4j  
 
 ## Education
 
 `2015-16`
 __Master 2 Statistiques - Économétrie__ spécialité prévision risque et marché  
 *Université Rennes I*  
-Économétrie spatiale, datamining, scoring, Big Data.
-* Projet de segmentation client dans le domaine de lʼassurance (classification, clustering, analyse discriminante) réalisé sous SAS
-* Projet « trieur de spam » réalisé à lʼaide dʼoutils issue du Machine Learning (forêt aléatoire, svm, réseaux de neurones) sous R
+Spatial econometry, datamining, scoring, BigData.
+* Customer segmentation project in insurrance using SAS.
+* Spam classifier project using machine learning algorithm with R (random forest, svm, neural network).
 
 `2014-15`
 __Master 1 Statistique - Économétrie__  
 *Université Rennes I*  
-Econométrie, analyse des données (analyse en composante principale, analyse des correspondances, classification), théorie des jeux, économie de lʼincertain.
+Econometry, datamining, game theory, economic uncertainty.
 
 `2011-14`
 __Licence Mathématique - Économie__  
 *Université Rennes I*  
-Econométrie quantitative, statistiques mathématiques, probabilités,
-macroéconomie, microéconomie
+Econometry, statistics, probability, micro and macro econonmics.
