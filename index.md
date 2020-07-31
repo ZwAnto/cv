@@ -18,7 +18,6 @@ Data Scientist at Lincoln
 __Data Scientist__ *Lincoln, Ile-de-France*  
 
 Data Science consultant 
-Consultant sur des problématiques liées à l'analyse et au traitement de la donnée.
 * Proeficient in R and Python and basic knowledge in SAS
 * Regular use of different machin learning methods/algorithms (PLS regression, Lasso/Ridge regression, ACP, Fourier Series)
 * Shiny development (dashboard, applications) alongside with HTML/CSS and JavaScript
@@ -29,13 +28,13 @@ Consultant sur des problématiques liées à l'analyse et au traitement de la do
 __Servier__ `2019 - now`  
 Part of the Data-Science team in the CENTEX MVD, I am in charge of different type of projects going from scientific publications analysis to drug repurposing/target discovery.  
 
-* The projects of scientific publication analysis are about how to identify relevant document about some specific inputs (for exemple, extract all publications about a specific biomarker and prognosis in a certain disease/condition). To achieve this we set up a pipeline using Spacy and regex base rules that allow us to make shorlists of publications about a given subject. All the publications were collected from NCBI PubMed/NCBI PMC.
-* The drug repuposing project is about setting up a novel platform to do drug repurposing and target discovery. This project could split up in different part
-    - The identification and the gathering of relevant open source databases on wich we build our pipelines ( in addition of internal databases). 
+* The projects about scientific publications analysis are about the identification of relevant documents about some specific inputs (for exemple, extract all publications about a specific biomarker and prognosis in a certain disease/condition). To achieve this we set up a pipeline using Spacy and regex base rules that allow us to make shorlists of publications about a given subject. All the publications were collected from NCBI PubMed/NCBI PMC.
+* The drug repuposing project is about setting up a novel drug repurposing and target discovery platform. This project split up in different parts:
+    - The identification and the gathering of relevant open source databases on wich we build our pipelines (in addition of internal databases). 
     - The implementation of all the analytic part that mainly rely on tools and well knwon algorithms from graph theory. 
-    - The creation of an application in order to expose data and analysis results.
+    - The creation of an application in order to expose data and analytic results.
 
-I also had the opportunity to work briefly on image recognition using deep learning algorithms in different projects.
+I also had the opportunity to work briefly on image recognition projects that use deep learning algorithms.
 
 Technologies : Python, R, R Shiny, MongoDB, Neo4j, Node.js/Vue.js, Cytoscape, Tensorflow, Spacy
     
