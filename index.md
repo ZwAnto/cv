@@ -66,25 +66,26 @@ After an atemp to build a tool using excel/VBA and SAS, I finally choose to buil
 
 Technologies : R, SAS, QGIS, JavaScript, Leaflet.js, Visual Basic, Excel
 
-## Projets
+## Side projects
 
-__Challenges Data Science Lincoln__  
+__Lincoln's Data Science challenges__  
 Internal data science challenge organize by Lincoln on various subjects from data visualisation to deep learning. Those challenges are an opportunity to improve and developp new programming skills and to learn novel machin learning methods/algorithms (deep learning, NLP, ...).
 
 {::options parse_block_html="true" /}
 <div class='sub_container'>
+
 __Twitter and the 2024 Olympics games__  
 In this project, we were working on a set of tweets about the olympics games of 2024. I try to identify major events that occure during the period that cover the Paris application by clustering weeks base on the words used in the tweets. I also create a web app that rely on elastic search to visualize my results.
 
 Technologies : Python, HTML/CSS, ElasticSearch  
 Methods : Bag-of-Words, TF-IDF, T-SNE, DBSCAN  
 
-__Dataviz - La propreté à Paris__  
+__Dataviz - Cleanliness in Paris__  
 Creation of a dashboard on the topic of street cleanliness in Paris using Open Data.
 Lien vers le dashbaord <a href='https://zwanto.org/lincoln/'><i class="fas fa-external-link-alt"></i></a>  
 Technologies : HTML/CSS, Highcharts.hs, Leaflet.js  
 
-__Reconnaissance d'image CIFAR-10__ 
+__Image recognition with CIFAR-10__ 
 Deep learning project on CIFAR-10 dataset. For this project, I implement a convutionnal neural network framework from scratch in python/numpy.  
 I also created a webapp using Django in order to test my implementation after a training on MNIST. Users can draw a figure in the app and get the app tell the user wich figure he has drawn using my neural network implementation.
 GitHub repo <a href='https://github.com/zwanto/pynet/'><i class="fas fa-external-link-alt"></i></a>  
@@ -94,7 +95,7 @@ Methods : CNN, RNN
 __Kaggle - House Prices: Advanced Regression Techniques__  
 </div>
 
-__Projets personnels__  
+__Personnal projects__  
 
 {::options parse_block_html="true" /}
 <div class='sub_container'>
@@ -112,7 +113,7 @@ Technologies : Vue.js, MySQL, Selenium
 </div>
 
 
-## Compétences techniques {#technical-skills}
+## Technical skills {#technical-skills}
 
 R  
 Shiny  
@@ -134,7 +135,7 @@ Neo4j
 ## Education
 
 `2015-16`
-__Master 2 Statistiques - Économétrie__ spécialité prévision risque et marché  
+__Master 2 Statistiques - Économétrie__ forecasting, risk and market speciality
 *Université Rennes I*  
 Spatial econometry, datamining, scoring, BigData.
 * Customer segmentation project in insurrance using SAS.
