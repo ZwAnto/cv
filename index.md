@@ -29,7 +29,7 @@ __Servier__ `2019 - now`
 As part of the Data-Science team in the CENTEX MVD, I was in charge of different type of projects:
 
 * *Scientific publications analysis*:  those projects were about the identification of relevant publications about some specific inputs (for exemple, extract all publications about a specific biomarker and prognosis in a certain disease/condition). To achieve this we set up a pipeline using Spacy and regex base rules that allow us to identify revelant publications (or sentences) about a given subject. All the publications were collected from NCBI PubMed/NCBI PMC.
-* *Drug repuposing / Target prioritization platform*: this project was about setting up a drug repurposing and target discovery platform. As we started from nearly nothing for this project, we had to gather data and built up analytic pipelines using the existing litterature on the subject. 
+* *Drug repurposing / Target prioritization platform*: this project was about setting up a drug repurposing and target discovery platform. As we started from nearly nothing for this project, we had to gather data and built up analytic pipelines using the existing litterature on the subject. 
     - The identification and the gathering of relevant open source databases (~15 data sources) about GWAS, Gene expressions, Drug-Target relationship, Gene interaction network and so on. 
     - The implementation of all the analytic part that mainly rely on graph theory. 
     - The creation of an application in order to expose data and analytic results.
