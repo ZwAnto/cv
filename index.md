@@ -15,6 +15,15 @@ Data Scientist at Lincoln France
 
 `2020 - now`
 __Machine Learning Engineer__ *Lincoln, Ile-de-France*
+Au sein du Lab Lincoln, je participe à developper l'expertise sur problématique de Data Science/Machine Learning
+* Encadrement de stagiaires sur des problématiques de NLP (tranformers, résumés abstractifs)
+* Animation d'atelier interne pour permettre aux consultants de travailler sur des sujets innovants en marge de leurs missions
+* Participation aux réponses d'appels d'offres/référencements sur la partie techniques
+* Developpement des bonnes pratique de programmation et de leur partage (template cookiecutter, developpement de packages)
+* Veille méthodologique
+* Réalisation de projets autour de problématiques/sujets d'actualités (nottament autout du NLP)
+
+Technologies: Cloud Azure, Azure ML, Huggingface transformers, Tensorflow, Git, CI-CD, Docker
 
 `2016 - 2020`
 __Data Scientist__ *Lincoln, Ile-de-France*  
@@ -28,8 +37,21 @@ Consultant sur des problématiques liées à l'analyse et au traitement de la do
 <div class='sub_container'> 
 
 __Servier__ `2017 - 2020`  
-Intervention chez Carrefour dans le cadre de la prestation chez CSA Data Constulting. L'objectif est de fournir à Carrefour un outil qui leur permet d'analyser la performance de leurs campagnes média passées et fournit des pistes de pilotage de leurs investissements média.
+Consultant dans l'équipe Data-Science du PEX Méthodologie et valorisation des données.
+*  Analyse de publications scientifiques dans le but d'identifier des publications d'intérèts sur différentes thématiques (cancer, biomarkers)
+    * Récupération des abstracts/articles à partir du portail NCBI Pubmed/PMC.
+    * Construction d'un pipeline d'analyse textuelle avec [Spacy](https://spacy.io/) et des règles basées sur des regex
+    * Identification et extraction des phrases/informations relevantes.
 
+* Plateforme de repositionnement/priorisation de cibles thérapeutiques.
+    * Etat de l'art
+    * Identification et integration de différentes sources de données (~20 sources, GWAS, expression de gènes, lien drug-target, réseaus d'intéractions de gènes, ...)
+    * Implentation du socle analytique et nottament l'analyse de réseaux
+    * Création d'une application pour exposer les résultats.
+    * Participation à la rédaction d'un article scientifique dans le cadre de l'épidémie de COVID-19.
+* Différent projets d'analyse d'imagerie médicale à l'aide de technique de Deep Learning.  
+
+Technologies: Python, R, R Shiny, MongoDB, Neo4j, Node.js/Vue.js, Cytoscape, Tensorflow, Spacy
 
 __Carrefour__ `2017 - 2019`  
 Intervention chez Carrefour dans le cadre de la prestation chez CSA Data Constulting. L'objectif est de fournir à Carrefour un outil qui leur permet d'analyser la performance de leurs campagnes média passées et fournit des pistes de pilotage de leurs investissements média.
@@ -62,7 +84,7 @@ Challenges internes organisés par Lincoln sur différentes thématiques autout 
 <div class='sub_container'>
 __Twitter et JO 2024__  
 Traitement et nettoyage des tweets avec des techniques issues du NLP. Mon approche à été d'identifier des semaines voisines relativement similaires en terme de thématique afin d'identifier les différents évènements survenus durant la période de candidature de Paris aux JO 2024. Creation d'une application web connecter à un cluster Elastic pour la restitution.  
-Technologies: Python, HTML/CSS, ElasticSearch, Bag-of-Words, TF-IDF, T-SNE, DBSCAN  
+Technologies: Python, HTML/CSS, ElasticSearch, Kibana, Bag-of-Words, TF-IDF, T-SNE, DBSCAN  
 
 __Dataviz - La propreté à Paris__  
 Creation d'un dashboard sur la thématique de la propreté à Paris.  
@@ -71,7 +93,7 @@ Technologies: HTML/CSS, Highcharts.hs, Leaflet.js
 
 __Reconnaissance d'image CIFAR-10__  
 Deep Learning sur le jeux de données CIFAR-10. Réimplémentation des différentes couches d'un réseaux à convolutions sous Python avec numpy.  
-GitHub repo <a href='https://github.com/Zwanto/pynet/'>lien</a>  
+Dépôt GitHub <a href='https://github.com/Zwanto/pynet/'>lien</a>  
 
 __Kaggle - House Prices: Advanced Regression Techniques__  
 </div>
@@ -81,28 +103,30 @@ Utitisation de Deep Q neural network pour entrainer un agent sur des environemen
 Technologies: Python, Keras, OpenAI Gym, Autoencoder  
 
 
-__Web scrapping__  
-Scrapping de sites bancaires avec Python pour récupérer les opérations sur DAV.  
-L'idée est de pouvoi alimenter une application web de gestion budgetaire.
-
-
 __Application gestion budgetaire__  
-Developpement d'une application web de suivi des dépenses.  
-Technologies: HTML/CSS, Javascript, PHP, SQL
+Developpement d'une application web de suivi des dépenses.  Les données sont scrappées quotiennement sur le site de ma banque.
+Technologies: Python, Vue.js, FastApi, SQL, Rapsberry Pi, Docker Swarm, CI-CD
 
 
 ## Compétences techniques {#technical-skills}
 
-R  
-Shiny  
-Python  
-Markdown  
+R
+Python 
 SAS  
 SQL  
+Markdown  
 HTML/CSS  
 JavaScript  
+Tensorflow  
+Keras  
+Transformers
 Docker  
 Git  
+Cloud Azure
+Vue.js  
+Selenium  
+Scrapy  
+Neo4j
 
 ## Education
 
