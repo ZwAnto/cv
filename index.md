@@ -15,7 +15,7 @@ Machine Learning Engineer at Lincoln France
 ## Experiences
 
 `2020 - now`
-__Machine Learning Engineer__ *Lincoln, Ile-de-France*
+__Machine Learning Engineer__ *Lincoln, Ile-de-France*  
 Au sein du Lab Lincoln, je participe à developper l'expertise sur problématique de Data Science/Machine Learning
 * Encadrement de stagiaires sur des problématiques de NLP (tranformers, résumés abstractifs)
 * Animation d'atelier interne pour permettre aux consultants de travailler sur des sujets innovants en marge de leurs missions
@@ -105,7 +105,7 @@ Technologies: Python, Keras, OpenAI Gym, Autoencoder
 
 
 __Application gestion budgetaire__  
-Developpement d'une application web de suivi des dépenses.  Les données sont scrappées quotiennement sur le site de ma banque.
+Developpement d'une application web de suivi des dépenses.  Les données sont scrappées quotiennement sur le site de ma banque.  
 Technologies: Python, Vue.js, FastApi, SQL, Rapsberry Pi, Docker Swarm, CI-CD
 
 
