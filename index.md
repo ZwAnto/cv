@@ -4,10 +4,11 @@ title: Antoine HAMON CV
 ---
 
 # Antoine HAMON
-Data Scientist at Lincoln France
+Machine Learning Engineer at Lincoln France
 
 <div id="webaddress">
-    <a href="https://github.com/ZwAnto"><i class="fab fa-github"></i> GitHub</a>
+    <a href="mailto:antoine.hamon@protonmail.com"><i class="far fa-envelope"></i> Mail</a>
+    | <a href="https://github.com/ZwAnto"><i class="fab fa-github"></i> GitHub</a>
     | <a href="https://www.linkedin.com/in/hamonantoine/"><i class="fab fa-linkedin"></i> LinkedIn</a>
 </div>
 
@@ -147,14 +148,3 @@ __Licence Mathématiques - Économie__
 *Université Rennes I*  
 Econométrie quantitative, statistique mathématique, probabilités,
 macroéconomie, microéconomie
-
-
-## Contact
-
-* <a href="https://www.linkedin.com/in/hamonantoine/"><i class="far fa-envelope"></i> Mail</a>
-* <a href="https://www.linkedin.com/in/hamonantoine/"><i class="fab fa-linkedin"></i> LinkedIn</a>
-* <a href="https://github.com/ZwAnto"><i class="fab fa-github"></i> GitHub</a>
-
-<!-- ### Footer
-
-Last updated: May 2013 -->
