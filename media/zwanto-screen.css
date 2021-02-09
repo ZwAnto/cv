@@ -70,7 +70,7 @@ body {
 
 p {
 	position: relative;
-	left: var(--left-margin);
+	margin-left: var(--left-margin);
 	margin-bottom: 0.7em;
 	margin-right: 0;
 	width: 65%;
@@ -130,7 +130,7 @@ h1 {
 	font-size: 3em;
 	line-height: 1em;
 	position: relative;
-	left: var(--left-margin);
+	margin-left: var(--left-margin);
 }
 
 h1+p { 
@@ -170,7 +170,7 @@ a:hover {
 #webaddress {
 	margin-top: 1em;
 	position: relative;
-	left: var(--left-margin);
+	margin-left: var(--left-margin);
 	color: #aaa;
 	font-family: Menlo,monospace,sans-serif;
 	font-size: 0.8em;
