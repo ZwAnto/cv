@@ -4,7 +4,7 @@ title: Antoine HAMON CV
 ---
 
 # Antoine HAMON
-Machine Learning Engineer at Lincoln France
+Machine Learning Engineer chez Lincoln France
 
 <div id="webaddress">
     <a href="mailto:antoine.hamon@protonmail.com"><i class="far fa-envelope"></i> Mail</a>
@@ -15,7 +15,7 @@ Machine Learning Engineer at Lincoln France
 
 ## Experiences
 
-`2020 - now`
+`2020 - auj`
 __Machine Learning Engineer__ *Lincoln, Ile-de-France*  
 Au sein du Lab Lincoln, je participe à developper l'expertise sur des problématiques de Data Science/Machine Learning (ML Ops, NLP, Computer vision, ...)
 * Encadrement de stagiaires sur des problématiques de NLP (tranformers, résumés abstractifs)
