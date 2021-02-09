@@ -58,14 +58,14 @@ Consultant dans l'équipe Data-Science du PEX Méthodologie et valorisation des 
 
 Technologies: 
 <span class="tech-badge"><img class="python"/>Python</span>
-<span class="tech-badge">R</span>
+<span class="tech-badge"><img class="r"/>R</span>
 <span class="tech-badge">R Shiny</span>
-<span class="tech-badge">MongoDB</span>
+<span class="tech-badge"><img class="mongo"/>MongoDB</span>
 <span class="tech-badge">Neo4j</span>
-<span class="tech-badge">Vue.js</span>
+<span class="tech-badge"><img class="vue"/>Vue.js</span>
 <span class="tech-badge">Cytoscape</span>
-<span class="tech-badge">Tensorflow</span>
-<span class="tech-badge">Spacy</span>
+<span class="tech-badge"><img class="tensorflow"/>Tensorflow</span>
+<span class="tech-badge"><img class="spacy"/>Spacy</span>
 
 __Carrefour__ `2017 - 2019`  
 Intervention chez Carrefour dans le cadre de la prestation chez CSA Data Constulting. L'objectif est de fournir à Carrefour un outil qui leur permet d'analyser la performance de leurs campagnes média passées et fournit des pistes de pilotage de leurs investissements média.
@@ -82,7 +82,7 @@ Modélisation du mix-marketing (Investissements media, CRM, promotions...) pour 
 
 Technologies: 
 <span class="tech-badge">SAS</span>
-<span class="tech-badge">R</span>
+<span class="tech-badge"><img class="r"/>R</span>
 <span class="tech-badge">R Shiny</span>
 <span class="tech-badge">HTML/CSS</span>
 <span class="tech-badge">JavaScript</span>
@@ -93,7 +93,7 @@ __Stagiaire chargé d'études statistiques et geomarketing__ *SoLocal Group - Pa
 Intégré à l'équipe de datamining au sein d'un service marketing, mon objectif à été de développer un projet de détection de potentiel sur des produits Search qui s'est conclu par la création d'une application R Shiny.
 
 Technologies: 
-<span class="tech-badge">R</span>
+<span class="tech-badge"><img class="r"/>R</span>
 <span class="tech-badge">SAS</span>
 <span class="tech-badge">QGIS</span>
 <span class="tech-badge">JavaScript</span>
@@ -113,7 +113,7 @@ Traitement et nettoyage des tweets avec des techniques issues du NLP. Mon approc
 Technologies: 
 <span class="tech-badge"><img class="python"/>Python</span>
 <span class="tech-badge">HTML/CSS</span>
-<span class="tech-badge">ElasticSearch / ELK stack</span>
+<span class="tech-badge"><img class="elastic"/>ElasticSearch / ELK stack</span>
 <span class="tech-badge">Bag-of-Words</span>
 <span class="tech-badge">TF-IDF</span>
 <span class="tech-badge">T-SNE</span>
@@ -141,10 +141,10 @@ __Application gestion budgetaire__
 Developpement d'une application web de suivi des dépenses.  Les données sont scrappées quotiennement sur le site de ma banque.  
 Technologies: 
 <span class="tech-badge"><img class="python"/>Python</span>
-<span class="tech-badge">Vue.js</span>
+<span class="tech-badge"><img class="vue"/>Vue.js</span>
 <span class="tech-badge">FastApi</span>
 <span class="tech-badge">SQL</span>
-<span class="tech-badge">Rapsberry Pi</span>
+<span class="tech-badge"><img class="rpi"/>Rapsberry Pi</span>
 <span class="tech-badge"><img class="docker"/>Docker Swarm</span>
 <span class="tech-badge">CI-CD</span>
 
@@ -152,8 +152,8 @@ __Appretissage par renforcement__
 Utitisation de Deep Q neural network pour entrainer un agent sur des environements Atari 2600 (Space Invaders).  
 Technologies:
 <span class="tech-badge"><img class="python"/>Python</span>
-<span class="tech-badge">Keras</span>
-<span class="tech-badge">OpenAI Gym</span>
+<span class="tech-badge"><img class="keras"/>Keras</span>
+<span class="tech-badge"><img class="openai"/>OpenAI Gym</span>
 <span class="tech-badge">Autoencoder</span>
 
 
