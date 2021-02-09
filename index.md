@@ -13,6 +13,12 @@ Machine Learning Engineer chez Lincoln France
     | <i class="fas fa-phone"></i> 06.10.56.68.91
 </div>
 
+<p style="
+    margin-top: 1em;
+">
+        Très curieux envers tout ce qui a trait aux nouvelles technologies et algorithmes liés au métier de Data Scientist. Je suis quelqu'un de dynamique, qui aime apprendre pour se tenir toujours au fait des dernières évolutions dans un milieu en constante évolution. 
+    </p>
+
 ## Experiences
 
 `2020 - Auj`
