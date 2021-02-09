@@ -15,7 +15,7 @@ Machine Learning Engineer chez Lincoln France
 
 ## Experiences
 
-`2020 - auj`
+`2020 - Auj`
 __Machine Learning Engineer__ *Lincoln, Ile-de-France*  
 Au sein du Lab Lincoln, je participe à developper l'expertise sur des problématiques de Data Science/Machine Learning (ML Ops, NLP, Computer vision, ...)
 * Encadrement de stagiaires sur des problématiques de NLP (tranformers, résumés abstractifs)
