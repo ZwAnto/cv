@@ -10,7 +10,7 @@ Machine Learning Engineer at Lincoln France
     <a href="mailto:antoine.hamon@protonmail.com"><i class="far fa-envelope"></i> Mail</a>
     | <a href="https://github.com/ZwAnto"><i class="fab fa-github"></i> GitHub</a>
     | <a href="https://www.linkedin.com/in/hamonantoine/"><i class="fab fa-linkedin"></i> LinkedIn</a>
-    | <i class="fab fa-phone"></i> 06.10.56.68.91
+    | <i class="fas fa-phone"></i> 06.10.56.68.91
 </div>
 
 ## Experiences
@@ -124,7 +124,7 @@ Technologies:
 __Dataviz - La propreté à Paris__  
 Creation d'un dashboard sur la thématique de la propreté à Paris.  
 
-<i class="fab fa-rocket"></i> Dashbaord <a href='https://zwanto.org/lincoln/'>lien</a>  
+<i class="fas fa-rocket"></i> Dashbaord <a href='https://zwanto.org/lincoln/'>lien</a>  
 
 Technologies: 
 <span class="tech-badge">HTML/CSS</span>
@@ -142,6 +142,15 @@ Technologies:
 
 __Kaggle - House Prices: Advanced Regression Techniques__  
 </div>
+
+__Emulateur de GameBoy__
+Developpement d'un émulateur de GameBoy en Go. L'objectif est de mieux comprendre le fonctionnement du hardware de façon générale ainsi que d'apprendre un language compilé. Le but est à terme de fabriquer un GameBoy fonctionnel.
+
+Technologies: 
+<span class="tech-badge"><img class="go"/>Go</span>
+<span class="tech-badge"><img class="rpi"/>Rapsberry Pi</span>
+<span class="tech-badge">Impression 3D</span>
+
 
 __Application gestion budgetaire__  
 Developpement d'une application web de suivi des dépenses.  Les données sont scrappées quotiennement sur le site de ma banque.  
