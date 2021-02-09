@@ -92,7 +92,7 @@ p code {
 
 ul { 
 	position: relative;
-	left: var(--left-margin);
+	margin-left: var(--left-margin);
 	width: 65%;
 	margin-bottom: 1.5em;
 	margin-top: -0.5em;
@@ -204,10 +204,14 @@ strong {
 
 
 /* CUSTOM RULES */
-ul {
+.sub_container ul {
     margin-left: 0.25rem;
     list-style: circle;
 }
+.sub_container p {
+    margin-left: 0;
+}
+
 li {
     list-style-position: inside;
 }
