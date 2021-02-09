@@ -10,6 +10,7 @@ Machine Learning Engineer at Lincoln France
     <a href="mailto:antoine.hamon@protonmail.com"><i class="far fa-envelope"></i> Mail</a>
     | <a href="https://github.com/ZwAnto"><i class="fab fa-github"></i> GitHub</a>
     | <a href="https://www.linkedin.com/in/hamonantoine/"><i class="fab fa-linkedin"></i> LinkedIn</a>
+    | <i class="fab fa-phone"></i> 06.10.56.68.91
 </div>
 
 ## Experiences
@@ -122,7 +123,8 @@ Technologies:
 
 __Dataviz - La propreté à Paris__  
 Creation d'un dashboard sur la thématique de la propreté à Paris.  
-Lien vers le dashbaord <a href='https://zwanto.org/lincoln/'>lien</a>  
+
+<i class="fab fa-rocket"></i> Dashbaord <a href='https://zwanto.org/lincoln/'>lien</a>  
 
 Technologies: 
 <span class="tech-badge">HTML/CSS</span>
@@ -130,8 +132,9 @@ Technologies:
 <span class="tech-badge">Leaflet.js  </span>
 
 __Reconnaissance d'image CIFAR-10__  
-Deep Learning sur le jeux de données CIFAR-10. Réimplémentation des différentes couches d'un réseaux à convolutions sous Python avec numpy.  
-Dépôt GitHub <a href='https://github.com/Zwanto/pynet/'>lien</a>  
+Deep Learning sur le jeux de données CIFAR-10. Réimplémentation des différentes couches d'un réseaux à convolutions sous Python avec numpy. 
+
+<i class="fab fa-github"></i> Dépôt GitHub <a href='https://github.com/Zwanto/pynet/'>lien</a>  
 
 Technologies: 
 <span class="tech-badge"><img class="python"/>Python</span>
