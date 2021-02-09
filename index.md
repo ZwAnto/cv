@@ -27,9 +27,9 @@ Au sein du Lab Lincoln, je participe à developper l'expertise sur des probléma
 Technologies: 
 <span class="tech-badge">Cloud Azure</span>
 <span class="tech-badge">Azure ML</span>
-<span class="tech-badge">Huggingface transformers</span>
-<span class="tech-badge">Tensorflow</span>
-<span class="tech-badge">Git</span>
+<span class="tech-badge"><img class="huggingface"/>Huggingface transformers</span>
+<span class="tech-badge"><img class="tensorflow"/>Tensorflow</span>
+<span class="tech-badge"><img class="git"/>Git</span>
 <span class="tech-badge">CI-CD</span>
 <span class="tech-badge"><img class="docker"/>Docker</span>
 <span class="tech-badge"><img class="python"/>Python</span>
