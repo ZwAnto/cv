@@ -124,7 +124,7 @@ Technologies:
 __Dataviz - La propreté à Paris__  
 Creation d'un dashboard sur la thématique de la propreté à Paris.  
 
-<i class="fas fa-rocket"></i> Dashbaord <a href='https://zwanto.org/lincoln/'>lien</a>  
+<i class="fas fa-rocket" style='font-size:1.1em'></i> Dashbaord <a href='https://zwanto.org/lincoln/'>lien</a>  
 
 Technologies: 
 <span class="tech-badge">HTML/CSS</span>
@@ -134,7 +134,7 @@ Technologies:
 __Reconnaissance d'image CIFAR-10__  
 Deep Learning sur le jeux de données CIFAR-10. Réimplémentation des différentes couches d'un réseaux à convolutions sous Python avec numpy. 
 
-<i class="fab fa-github"></i> Dépôt GitHub <a href='https://github.com/Zwanto/pynet/'>lien</a>  
+<i class="fab fa-github" style='font-size:1.1em'></i> Dépôt GitHub <a href='https://github.com/Zwanto/pynet/'>lien</a>  
 
 Technologies: 
 <span class="tech-badge"><img class="python"/>Python</span>
@@ -143,8 +143,11 @@ Technologies:
 __Kaggle - House Prices: Advanced Regression Techniques__  
 </div>
 
-__Emulateur de GameBoy__
-Developpement d'un émulateur de GameBoy en Go. L'objectif est de mieux comprendre le fonctionnement du hardware de façon générale ainsi que d'apprendre un language compilé. Le but est à terme de fabriquer un GameBoy fonctionnel.
+__Emulateur de GameBoy__  
+Developpement d'un émulateur de GameBoy en Go. L'objectif est de mieux comprendre le fonctionnement du hardware de façon générale ainsi que d'apprendre un language compilé.  
+Le but est à terme de fabriquer un GameBoy fonctionnel.  
+
+<i class="fab fa-github" style='font-size:1.1em'></i> Dépôt GitHub <a href='https://github.com/Zwanto/zeroboy/'>lien</a>  
 
 Technologies: 
 <span class="tech-badge"><img class="go"/>Go</span>
