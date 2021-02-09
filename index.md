@@ -10,7 +10,6 @@ Machine Learning Engineer chez Lincoln France
     <a href="mailto:antoine.hamon@protonmail.com"><i class="far fa-envelope"></i> Mail</a>
     | <a href="https://github.com/ZwAnto"><i class="fab fa-github"></i> GitHub</a>
     | <a href="https://www.linkedin.com/in/hamonantoine/"><i class="fab fa-linkedin"></i> LinkedIn</a>
-    | <i class="fas fa-phone"></i> 06.10.56.68.91
 </div>
 
 <p style="
