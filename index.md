@@ -31,8 +31,8 @@ Technologies:
 <span class="tech-badge">Tensorflow</span>
 <span class="tech-badge">Git</span>
 <span class="tech-badge">CI-CD</span>
-<span class="tech-badge">Docker</span>
-<span class="tech-badge python">Python</span>
+<span class="tech-badge"><img class="docker"/>Docker</span>
+<span class="tech-badge"><img class="python"/>Python</span>
 
 `2016 - 2020`
 __Consultant Data Science__ *Lincoln, Ile-de-France*  
