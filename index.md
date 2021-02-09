@@ -16,23 +16,27 @@ Machine Learning Engineer at Lincoln France
 
 `2020 - now`
 __Machine Learning Engineer__ *Lincoln, Ile-de-France*  
-Au sein du Lab Lincoln, je participe à developper l'expertise sur problématique de Data Science/Machine Learning
+Au sein du Lab Lincoln, je participe à developper l'expertise sur des problématiques de Data Science/Machine Learning (ML Ops, NLP, Computer vision, ...)
 * Encadrement de stagiaires sur des problématiques de NLP (tranformers, résumés abstractifs)
 * Animation d'atelier interne pour permettre aux consultants de travailler sur des sujets innovants en marge de leurs missions
 * Participation aux réponses d'appels d'offres/référencements sur la partie techniques
 * Developpement des bonnes pratique de programmation et de leur partage (template cookiecutter, developpement de packages)
-* Veille méthodologique
 * Réalisation de projets autour de problématiques/sujets d'actualités (nottament autout du NLP)
+* Veille méthodologique
 
-Technologies: Cloud Azure, Azure ML, Huggingface transformers, Tensorflow, Git, CI-CD, Docker
+Technologies: 
+<span class="tech-badge">Cloud Azure</span>
+<span class="tech-badge">Azure ML</span>
+<span class="tech-badge">Huggingface transformers</span>
+<span class="tech-badge">Tensorflow</span>
+<span class="tech-badge">Git</span>
+<span class="tech-badge">CI-CD</span>
+<span class="tech-badge">Docker</span>
+<span class="tech-badge python">Python</span>
 
 `2016 - 2020`
-__Data Scientist__ *Lincoln, Ile-de-France*  
-Consultant sur des problématiques liées à l'analyse et au traitement de la donnée.
-* Maitrise de R et Python, connaissance de base en SAS
-* Utilisation de différents algorithmes de machine learning (PLS regression, LAsso/Ridge, ACP, série de Fourier)
-* Developpement de dashboard Shiny
-* Dispense de formations client sur R
+__Consultant Data Science__ *Lincoln, Ile-de-France*  
+Consultant sur des problématiques liées à l'analyse et au traitement de la donnée et animation de formaton client sur R.
 
 {::options parse_block_html="true" /}
 <div class='sub_container'> 
@@ -41,7 +45,7 @@ __Servier__ `2017 - 2020`
 Consultant dans l'équipe Data-Science du PEX Méthodologie et valorisation des données.
 *  Analyse de publications scientifiques dans le but d'identifier des publications d'intérèts sur différentes thématiques (cancer, biomarkers)
     * Récupération des abstracts/articles à partir du portail NCBI Pubmed/PMC.
-    * Construction d'un pipeline d'analyse textuelle avec [Spacy](https://spacy.io/) et des règles basées sur des regex
+    * Construction d'un pipeline d'analyse textuelle avec Spacy et des règles basées sur des regex
     * Identification et extraction des phrases/informations relevantes.
 
 * Plateforme de repositionnement/priorisation de cibles thérapeutiques.

@@ -263,3 +263,9 @@ p .fa,p .fab,p .fal,p .far,p .fas {
     margin-bottom: 4rem;
 }
 
+/* BADGES */
+span.tech-badge {
+	border-radius: 15px;
+    box-shadow: 0 0 0 1px #b3b3b3;
+    padding: 3px 8px;
+}
