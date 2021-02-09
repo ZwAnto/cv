@@ -110,6 +110,7 @@ Challenges internes organisés par Lincoln sur différentes thématiques autout 
 <div class='sub_container'>
 __Twitter et JO 2024__  
 Traitement et nettoyage des tweets avec des techniques issues du NLP. Mon approche à été d'identifier des semaines voisines relativement similaires en terme de thématique afin d'identifier les différents évènements survenus durant la période de candidature de Paris aux JO 2024. Creation d'une application web connecter à un cluster Elastic pour la restitution.  
+
 Technologies: 
 <span class="tech-badge"><img class="python"/>Python</span>
 <span class="tech-badge">HTML/CSS</span>
@@ -122,6 +123,7 @@ Technologies:
 __Dataviz - La propreté à Paris__  
 Creation d'un dashboard sur la thématique de la propreté à Paris.  
 Lien vers le dashbaord <a href='https://zwanto.org/lincoln/'>lien</a>  
+
 Technologies: 
 <span class="tech-badge">HTML/CSS</span>
 <span class="tech-badge">Highcharts.hs</span>
@@ -130,26 +132,30 @@ Technologies:
 __Reconnaissance d'image CIFAR-10__  
 Deep Learning sur le jeux de données CIFAR-10. Réimplémentation des différentes couches d'un réseaux à convolutions sous Python avec numpy.  
 Dépôt GitHub <a href='https://github.com/Zwanto/pynet/'>lien</a>  
+
 Technologies: 
 <span class="tech-badge"><img class="python"/>Python</span>
-<span class="tech-badge">Keras</span>
+<span class="tech-badge"><img class="keras"/>Keras</span>
 
 __Kaggle - House Prices: Advanced Regression Techniques__  
 </div>
 
 __Application gestion budgetaire__  
 Developpement d'une application web de suivi des dépenses.  Les données sont scrappées quotiennement sur le site de ma banque.  
+
 Technologies: 
 <span class="tech-badge"><img class="python"/>Python</span>
 <span class="tech-badge"><img class="vue"/>Vue.js</span>
 <span class="tech-badge">FastApi</span>
 <span class="tech-badge">SQL</span>
+<span class="tech-badge"><img class="git"/>Git</span>
 <span class="tech-badge"><img class="rpi"/>Rapsberry Pi</span>
 <span class="tech-badge"><img class="docker"/>Docker Swarm</span>
 <span class="tech-badge">CI-CD</span>
 
 __Appretissage par renforcement__  
 Utitisation de Deep Q neural network pour entrainer un agent sur des environements Atari 2600 (Space Invaders).  
+
 Technologies:
 <span class="tech-badge"><img class="python"/>Python</span>
 <span class="tech-badge"><img class="keras"/>Keras</span>
