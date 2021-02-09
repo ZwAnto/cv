@@ -25,14 +25,14 @@ Au sein du Lab Lincoln, je participe à developper l'expertise sur des probléma
 * Veille méthodologique
 
 Technologies: 
+<span class="tech-badge"><img class="python"/>Python</span>
+<span class="tech-badge"><img class="git"/>Git</span>
 <span class="tech-badge">Cloud Azure</span>
 <span class="tech-badge">Azure ML</span>
 <span class="tech-badge"><img class="huggingface"/>Huggingface transformers</span>
 <span class="tech-badge"><img class="tensorflow"/>Tensorflow</span>
-<span class="tech-badge"><img class="git"/>Git</span>
-<span class="tech-badge">CI-CD</span>
 <span class="tech-badge"><img class="docker"/>Docker</span>
-<span class="tech-badge"><img class="python"/>Python</span>
+<span class="tech-badge">CI-CD</span>
 
 `2016 - 2020`
 __Consultant Data Science__ *Lincoln, Ile-de-France*  
@@ -56,7 +56,16 @@ Consultant dans l'équipe Data-Science du PEX Méthodologie et valorisation des 
     * Participation à la rédaction d'un article scientifique dans le cadre de l'épidémie de COVID-19.
 * Différent projets d'analyse d'imagerie médicale à l'aide de technique de Deep Learning.  
 
-Technologies: Python, R, R Shiny, MongoDB, Neo4j, Node.js/Vue.js, Cytoscape, Tensorflow, Spacy
+Technologies: 
+<span class="tech-badge"><img class="python"/>Python</span>
+<span class="tech-badge">R</span>
+<span class="tech-badge">R Shiny</span>
+<span class="tech-badge">MongoDB</span>
+<span class="tech-badge">Neo4j</span>
+<span class="tech-badge">Vue.js</span>
+<span class="tech-badge">Cytoscape</span>
+<span class="tech-badge">Tensorflow</span>
+<span class="tech-badge">Spacy</span>
 
 __Carrefour__ `2017 - 2019`  
 Intervention chez Carrefour dans le cadre de la prestation chez CSA Data Constulting. L'objectif est de fournir à Carrefour un outil qui leur permet d'analyser la performance de leurs campagnes média passées et fournit des pistes de pilotage de leurs investissements média.
@@ -71,14 +80,26 @@ Modélisation du mix-marketing (Investissements media, CRM, promotions...) pour 
     - Les résultats de modélisation
     - Les recommandations
 
-Technologies: SAS, R, R Shiny, HTML/CSS, JavaScript
+Technologies: 
+<span class="tech-badge">SAS</span>
+<span class="tech-badge">R</span>
+<span class="tech-badge">R Shiny</span>
+<span class="tech-badge">HTML/CSS</span>
+<span class="tech-badge">JavaScript</span>
 </div>
 
 `2016`
 __Stagiaire chargé d'études statistiques et geomarketing__ *SoLocal Group - Pages Jaunes, Ile-de-France*  
 Intégré à l'équipe de datamining au sein d'un service marketing, mon objectif à été de développer un projet de détection de potentiel sur des produits Search qui s'est conclu par la création d'une application R Shiny.
 
-Technologies: R, SAS, QGIS, JavaScript, Leaflet.js, Visual Basic, Excel
+Technologies: 
+<span class="tech-badge">R</span>
+<span class="tech-badge">SAS</span>
+<span class="tech-badge">QGIS</span>
+<span class="tech-badge">JavaScript</span>
+<span class="tech-badge">Leaflet.js</span>
+<span class="tech-badge">Visual Basic</span>
+<span class="tech-badge">Excel</span>
 
 ## Projets
 
@@ -89,49 +110,52 @@ Challenges internes organisés par Lincoln sur différentes thématiques autout 
 <div class='sub_container'>
 __Twitter et JO 2024__  
 Traitement et nettoyage des tweets avec des techniques issues du NLP. Mon approche à été d'identifier des semaines voisines relativement similaires en terme de thématique afin d'identifier les différents évènements survenus durant la période de candidature de Paris aux JO 2024. Creation d'une application web connecter à un cluster Elastic pour la restitution.  
-Technologies: Python, HTML/CSS, ElasticSearch, Kibana, Bag-of-Words, TF-IDF, T-SNE, DBSCAN  
+Technologies: 
+<span class="tech-badge"><img class="python"/>Python</span>
+<span class="tech-badge">HTML/CSS</span>
+<span class="tech-badge">ElasticSearch / ELK stack</span>
+<span class="tech-badge">Bag-of-Words</span>
+<span class="tech-badge">TF-IDF</span>
+<span class="tech-badge">T-SNE</span>
+<span class="tech-badge">DBSCAN  </span>
 
 __Dataviz - La propreté à Paris__  
 Creation d'un dashboard sur la thématique de la propreté à Paris.  
 Lien vers le dashbaord <a href='https://zwanto.org/lincoln/'>lien</a>  
-Technologies: HTML/CSS, Highcharts.hs, Leaflet.js  
+Technologies: 
+<span class="tech-badge">HTML/CSS</span>
+<span class="tech-badge">Highcharts.hs</span>
+<span class="tech-badge">Leaflet.js  </span>
 
 __Reconnaissance d'image CIFAR-10__  
 Deep Learning sur le jeux de données CIFAR-10. Réimplémentation des différentes couches d'un réseaux à convolutions sous Python avec numpy.  
 Dépôt GitHub <a href='https://github.com/Zwanto/pynet/'>lien</a>  
+Technologies: 
+<span class="tech-badge"><img class="python"/>Python</span>
+<span class="tech-badge">Keras</span>
 
 __Kaggle - House Prices: Advanced Regression Techniques__  
 </div>
 
-__Appretissage par renforcement__  
-Utitisation de Deep Q neural network pour entrainer un agent sur des environements Atari 2600 (Space Invaders).  
-Technologies: Python, Keras, OpenAI Gym, Autoencoder  
-
-
 __Application gestion budgetaire__  
 Developpement d'une application web de suivi des dépenses.  Les données sont scrappées quotiennement sur le site de ma banque.  
-Technologies: Python, Vue.js, FastApi, SQL, Rapsberry Pi, Docker Swarm, CI-CD
+Technologies: 
+<span class="tech-badge"><img class="python"/>Python</span>
+<span class="tech-badge">Vue.js</span>
+<span class="tech-badge">FastApi</span>
+<span class="tech-badge">SQL</span>
+<span class="tech-badge">Rapsberry Pi</span>
+<span class="tech-badge"><img class="docker"/>Docker Swarm</span>
+<span class="tech-badge">CI-CD</span>
 
+__Appretissage par renforcement__  
+Utitisation de Deep Q neural network pour entrainer un agent sur des environements Atari 2600 (Space Invaders).  
+Technologies:
+<span class="tech-badge"><img class="python"/>Python</span>
+<span class="tech-badge">Keras</span>
+<span class="tech-badge">OpenAI Gym</span>
+<span class="tech-badge">Autoencoder</span>
 
-## Compétences techniques {#technical-skills}
-
-R
-Python 
-SAS  
-SQL  
-Markdown  
-HTML/CSS  
-JavaScript  
-Tensorflow  
-Keras  
-Transformers
-Docker  
-Git  
-Cloud Azure
-Vue.js  
-Selenium  
-Scrapy  
-Neo4j
 
 ## Education
 
