@@ -92,8 +92,9 @@ Technologies :
 <span class="tech-badge">R Shiny</span>
 <span class="tech-badge">HTML/CSS</span>
 <span class="tech-badge">JavaScript</span>
-</div>
 </p>
+
+</div>
 
 `2016`
 __Stagiaire chargé d'études statistiques et geomarketing__ *SoLocal Group - Pages Jaunes, Ile-de-France*  
