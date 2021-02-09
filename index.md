@@ -32,7 +32,7 @@ Au sein du Lab Lincoln, je participe au developpement de l'expertise sur des pro
 * Veille méthodologique
 
 <p style="text-align: left;">
-Technologies :  
+Technologies : 
 <span class="tech-badge"><img class="python"/>Python</span>
 <span class="tech-badge"><img class="git"/>Git</span>
 <span class="tech-badge">Cloud Azure</span>
@@ -66,7 +66,7 @@ Consultant dans l'équipe Data-Science du PEX Méthodologie et valorisation des 
 * Différents projets d'analyse d'imagerie médicale à l'aide de techniques de Deep Learning  
 
 <p style="text-align: left;">
-Technologies :  
+Technologies : 
 <span class="tech-badge"><img class="python"/>Python</span>
 <span class="tech-badge"><img class="r"/>R</span>
 <span class="tech-badge">R Shiny</span>
@@ -92,7 +92,7 @@ Modélisation du mix-marketing (investissements media, CRM, promotions...) pour 
     - Les recommandations
 
 <p style="text-align: left;">
-Technologies :  
+Technologies : 
 <span class="tech-badge">SAS</span>
 <span class="tech-badge"><img class="r"/>R</span>
 <span class="tech-badge">R Shiny</span>
@@ -107,7 +107,7 @@ __Stagiaire chargé d'études statistiques et geomarketing__ *SoLocal Group - Pa
 Intégré à l'équipe de datamining au sein d'un service marketing, mon objectif à été de développer un projet de détection de potentiel sur des produits search qui s'est conclu par la création d'une application R Shiny.
 
 <p style="text-align: left;">
-Technologies :  
+Technologies : 
 <span class="tech-badge"><img class="r"/>R</span>
 <span class="tech-badge">SAS</span>
 <span class="tech-badge">QGIS</span>
@@ -128,7 +128,7 @@ __Twitter et JO 2024__
 Traitement et nettoyage des tweets avec des techniques issues du NLP. Mon approche à été d'identifier des semaines voisines relativement similaires en terme de thématiques afin d'identifier les différents évènements survenus durant la période de candidature de Paris aux JO 2024. Création d'une application web connectée à un cluster Elastic pour la restitution.  
 
 <p style="text-align: left;">
-Technologies :  
+Technologies : 
 <span class="tech-badge"><img class="python"/>Python</span>
 <span class="tech-badge">HTML/CSS</span>
 <span class="tech-badge"><img class="elastic"/>ElasticSearch / ELK stack</span>
@@ -144,7 +144,7 @@ Création d'un dashboard sur la thématique de la propreté à Paris.
 <i class="fas fa-rocket" style='font-size:1.1em'></i> Dashboard <a href='https://zwanto.org/lincoln/'>lien</a>  
 
 <p style="text-align: left;">
-Technologies :  
+Technologies : 
 <span class="tech-badge">HTML/CSS</span>
 <span class="tech-badge">Highcharts.hs</span>
 <span class="tech-badge">Leaflet.js  </span>
@@ -156,7 +156,7 @@ Deep Learning sur le jeu de données CIFAR-10. Réimplémentation des différent
 <i class="fab fa-github" style='font-size:1.1em'></i> Dépôt GitHub <a href='https://github.com/Zwanto/pynet/'>lien</a>  
 
 <p style="text-align: left;">
-Technologies :  
+Technologies : 
 <span class="tech-badge"><img class="python"/>Python</span>
 <span class="tech-badge"><img class="keras"/>Keras</span>
 </p>
@@ -170,7 +170,7 @@ Développement d'un émulateur de GameBoy en Go. L'objectif est de mieux compren
 <i class="fab fa-github" style='font-size:1.1em'></i> Dépôt GitHub <a href='https://github.com/Zwanto/zeroboy/'>lien</a>  
 
 <p style="text-align: left;">
-Technologies :  
+Technologies : 
 <span class="tech-badge"><img class="go"/>Go</span>
 <span class="tech-badge"><img class="rpi"/>Rapsberry Pi</span>
 <span class="tech-badge">Impression 3D</span>
@@ -181,7 +181,7 @@ __Application de gestion budgétaire__
 Développement d'une application web de suivi des dépenses.  Les données sont scrappées quotidiennement sur le site de ma banque.  
 
 <p style="text-align: left;">
-Technologies :  
+Technologies : 
 <span class="tech-badge"><img class="python"/>Python</span>
 <span class="tech-badge"><img class="vue"/>Vue.js</span>
 <span class="tech-badge">FastApi</span>
