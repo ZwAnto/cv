@@ -4,7 +4,7 @@ title: Antoine HAMON CV
 ---
 
 # Antoine HAMON
-Machine Learning Engineer chez Lincoln France
+Data Scientist chez Lincoln France
 
 <div id="webaddress">
     <a href="mailto:antoine.hamon@protonmail.com"><i class="far fa-envelope"></i> Mail</a>
