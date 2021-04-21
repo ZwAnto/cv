@@ -37,6 +37,7 @@ Technologies :
 <span class="tech-badge">Azure</span>
 <span class="tech-badge"><img class="huggingface"/>Huggingface transformers</span>
 <span class="tech-badge"><img class="tensorflow"/>Tensorflow</span>
+<span class="tech-badge"><img class="pytorch"/>PyTorch</span>
 <span class="tech-badge"><img class="docker"/>AKS/Docker</span>
 <span class="tech-badge"><img class="react"/>React</span>
 <span class="tech-badge">CI-CD</span>
@@ -74,6 +75,7 @@ Technologies :
 <span class="tech-badge"><img class="vue"/>Vue.js</span>
 <span class="tech-badge">Cytoscape</span>
 <span class="tech-badge"><img class="tensorflow"/>Tensorflow</span>
+<span class="tech-badge"><img class="pytorch"/>PyTorch</span>
 <span class="tech-badge"><img class="spacy"/>Spacy</span>
 </p>
 
