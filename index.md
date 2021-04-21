@@ -34,11 +34,11 @@ Au sein du Lab Lincoln, je participe au developpement de l'expertise sur des pro
 Technologies : 
 <span class="tech-badge"><img class="python"/>Python</span>
 <span class="tech-badge"><img class="git"/>Git</span>
-<span class="tech-badge">Cloud Azure</span>
-<span class="tech-badge">Azure ML</span>
+<span class="tech-badge">Azure</span>
 <span class="tech-badge"><img class="huggingface"/>Huggingface transformers</span>
 <span class="tech-badge"><img class="tensorflow"/>Tensorflow</span>
-<span class="tech-badge"><img class="docker"/>Docker</span>
+<span class="tech-badge"><img class="docker"/>AKS/Docker</span>
+<span class="tech-badge"><img class="react"/>React</span>
 <span class="tech-badge">CI-CD</span>
 </p>
 
@@ -77,8 +77,8 @@ Technologies :
 <span class="tech-badge"><img class="spacy"/>Spacy</span>
 </p>
 
-__Carrefour__ `2017 - 2019`  
-Intervention chez Carrefour dans le cadre de la prestation chez CSA Data Constulting. Création d'un outil permettant d'analyser la performance de leurs campagnes média passées et de fournir des pistes de pilotage de leurs investissements média.
+<!-- __Carrefour__ `2017 - 2019`  
+Intervention chez Carrefour dans le cadre de la prestation chez CSA Data Constulting. Création d'un outil permettant d'analyser la performance de leurs campagnes média passées et de fournir des pistes de pilotage de leurs investissements média. -->
 
 __Havas - CSA Data Consulting__ `2016 - 2019`  
 Modélisation du mix-marketing (investissements media, CRM, promotions...) pour mesurer l’impact de ces différents leviers sur des indicateurs business dans le but de fournir des pistes de pilotage des actions média-marketing de ses clients.
@@ -89,6 +89,8 @@ Modélisation du mix-marketing (investissements media, CRM, promotions...) pour 
     - Les statistiques descriptives
     - Les résultats de modélisation
     - Les recommandations
+
+Je suis également intervenu chez un des leaders du retail français pour implémenter une plateforme de pilotage média-marketing basée sur R Shiny.
 
 <p style="text-align: left;">
 Technologies : 
@@ -137,7 +139,7 @@ Technologies :
 <span class="tech-badge">DBSCAN  </span>
 </p>
 
-__Dataviz - La propreté à Paris__  
+<!-- __Dataviz - La propreté à Paris__  
 Création d'un dashboard sur la thématique de la propreté à Paris.  
 
 <i class="fas fa-rocket" style='font-size:1.1em'></i> Dashboard <a href='https://zwanto.org/lincoln/'>lien</a>  
@@ -147,7 +149,7 @@ Technologies :
 <span class="tech-badge">HTML/CSS</span>
 <span class="tech-badge">Highcharts.hs</span>
 <span class="tech-badge">Leaflet.js  </span>
-</p>
+</p> -->
 
 __Reconnaissance d'image CIFAR-10__  
 Deep Learning sur le jeu de données CIFAR-10. Réimplémentation des différentes couches d'un réseau à convolutions sous Python avec numpy. 
@@ -175,7 +177,7 @@ Technologies :
 <span class="tech-badge">Impression 3D</span>
 </p>
 
-
+<!-- 
 __Application de gestion budgétaire__  
 Développement d'une application web de suivi des dépenses.  Les données sont scrappées quotidiennement sur le site de ma banque.  
 
@@ -189,7 +191,7 @@ Technologies :
 <span class="tech-badge"><img class="rpi"/>Rapsberry Pi</span>
 <span class="tech-badge"><img class="docker"/>Docker Swarm</span>
 <span class="tech-badge">CI-CD</span>
-</p>
+</p> -->
 
 __Apprentissage par renforcement__  
 Utilisation de Deep Q Neural Network pour entrainer un agent sur des environnements Atari 2600 (Space Invaders).  
